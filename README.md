@@ -2,7 +2,7 @@
 
 In this repo you'll find all the technology watch I did at BeCode. 
 
-It's a short oral presentation on a topic or on a technology lasting more or less 15 minutes.
+A tech talk is an oral presentation on a technology or IT topic to a specialist audience. Organised by companies, universities or other groups, they aim to share knowledge and ideas on technology topics, either in person or online.
 
 ## List of my watches
 
